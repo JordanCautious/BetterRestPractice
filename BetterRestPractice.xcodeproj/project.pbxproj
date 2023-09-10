@@ -11,6 +11,7 @@
 		EC130FA92AAE87A400F2B7BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC130FA82AAE87A400F2B7BE /* ContentView.swift */; };
 		EC130FAB2AAE87A600F2B7BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC130FAA2AAE87A600F2B7BE /* Assets.xcassets */; };
 		EC130FAE2AAE87A600F2B7BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC130FAD2AAE87A600F2B7BE /* Preview Assets.xcassets */; };
+		EC130FB72AAE895800F2B7BE /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = EC130FB62AAE895800F2B7BE /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EC130FA82AAE87A400F2B7BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EC130FAA2AAE87A600F2B7BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC130FAD2AAE87A600F2B7BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EC130FB62AAE895800F2B7BE /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EC130FA62AAE87A400F2B7BE /* BetterRestPracticeApp.swift */,
 				EC130FA82AAE87A400F2B7BE /* ContentView.swift */,
+				EC130FB62AAE895800F2B7BE /* SleepCalculator.mlmodel */,
 				EC130FAA2AAE87A600F2B7BE /* Assets.xcassets */,
 				EC130FAC2AAE87A600F2B7BE /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC130FA92AAE87A400F2B7BE /* ContentView.swift in Sources */,
+				EC130FB72AAE895800F2B7BE /* SleepCalculator.mlmodel in Sources */,
 				EC130FA72AAE87A400F2B7BE /* BetterRestPracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
